@@ -25,7 +25,7 @@ This project investigates the impact of the COVID-19 pandemic on sectors of the 
 
 ## Data Source
 
-data/your_dataset_name.csv
+data/streaming_covid_data.csv
 
 ---
 
@@ -37,12 +37,12 @@ data/your_dataset_name.csv
 
 ## Key Findings
 
-# Revenue Growth
+### Revenue Growth
 - Revenue continued to increase even after subscriber growth stabilized.
 - Streaming companies relied on pricing strategies and premium subscription models.
 - Revenue trends proved more resilient than subscriber trends.
   
-# Long-Term Impact
+#### Long-Term Impact
 - COVID-19 permanently accelerated the shift toward digital entertainment.
 - Consumer behavior established during the pandemic remained strong after restrictions ended.
 - The streaming industry emerged larger and more profitable than before COVID-19.
