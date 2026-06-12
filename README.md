@@ -37,7 +37,7 @@ Metrics:
 
 *(Dashboard image below)*
 
-![Dashboard](streaming-dashboard.png)
+![Dashboard](covid-streaming.png)
 
 
 ## Author
