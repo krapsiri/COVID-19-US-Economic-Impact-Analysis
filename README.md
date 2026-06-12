@@ -23,15 +23,6 @@ This project investigates the impact of the COVID-19 pandemic on sectors of the 
 
 ---
 
-## Methodology
-
-- Collected publicly available company financial data and subscriber reports.
-- Organized quarterly data from 2019–2023.
-- Created visualizations using Tableau.
-- Compared industry performance across different pandemic phases.
-
----
-
 ## Key Findings
 
 - Streaming services experienced significant subscriber growth during COVID-19.
@@ -44,35 +35,6 @@ This project investigates the impact of the COVID-19 pandemic on sectors of the 
 ## Dashboard
 
 ![Dashboard](streaming_data.png)
-
----
-
-## Technologies Used
-
-- Tableau
-- Microsoft Excel
-- Data Visualization
-- Financial Analysis
-
----
-
-## Data Sources
-
-- Company Quarterly Earnings Reports
-- Public Investor Relations Data
-- SEC Filings
-- Historical Subscriber Statistics
-
----
-
-## Future Work
-
-This project is part of a broader analysis of COVID-19's impact on the U.S. economy. Future research may include:
-- Airline Industry
-- Retail and E-commerce
-- Hospitality and Tourism
-- Stock Market Performance
-- Technology Sector
 
 ---
 
