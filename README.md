@@ -36,3 +36,13 @@ Metrics:
 ## Dashboard
 
 *(Dashboard image below)*
+
+![Dashboard](streaming-dashboard.png)
+
+
+## Author
+
+Iris Park
+
+
+
