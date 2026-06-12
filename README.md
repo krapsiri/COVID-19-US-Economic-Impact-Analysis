@@ -37,12 +37,18 @@ This project investigates the impact of the COVID-19 pandemic on sectors of the 
 
 ## Key Findings
 
+### Subscriber Growth
+- All three streaming platforms experienced significant subscriber growth during COVID-19.
+- Netflix increased from approximately 167 million to over 220 million subscribers.
+- Disney+ experienced rapid expansion following its late 2019 launch.
+- Subscriber growth slowed after pandemic restrictions eased.
+
 ### Revenue Growth
 - Revenue continued to increase even after subscriber growth stabilized.
 - Streaming companies relied on pricing strategies and premium subscription models.
 - Revenue trends proved more resilient than subscriber trends.
   
-#### Long-Term Impact
+### Long-Term Impact
 - COVID-19 permanently accelerated the shift toward digital entertainment.
 - Consumer behavior established during the pandemic remained strong after restrictions ended.
 - The streaming industry emerged larger and more profitable than before COVID-19.
