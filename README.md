@@ -34,7 +34,7 @@ This project investigates the impact of the COVID-19 pandemic on sectors of the 
 
 ## Dashboard
 
-![Dashboard](streaming_data.png)
+![Dashboard](streaming_covid.png)
 
 ---
 
