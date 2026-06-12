@@ -25,7 +25,7 @@ This project investigates the impact of the COVID-19 pandemic on sectors of the 
 
 ## Data Source
 
-data/streaming_covid_data.csv
+- Dataset: [`streaming_covid_data.csv`](data/streaming_covid_data.csv)
 
 ---
 
