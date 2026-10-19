@@ -10,7 +10,6 @@ How did COVID-19 affect Netflix, Disney+, and Hulu in terms of subscribers and r
 
 - Tableau (dashboard and visualizations)
 - Data: [`streaming_covid_data.csv`](streaming_covid_data.csv), quarterly subscribers and revenue, 2019–2023
-- Source of data: [add where you got it]
 
 ## Dashboard
 
