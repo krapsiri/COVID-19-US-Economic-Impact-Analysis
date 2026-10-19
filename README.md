@@ -1,70 +1,31 @@
-# COVID-19 Impact on U.S. Markets and Industries (2019-2023)
+# COVID-19 Impact on the U.S. Streaming Industry (2019–2023)
 
-## Project Overview
+Data analysis project completed with ACM (April–June 2026) examining how COVID-19 affected subscriber growth and revenue for major streaming services.
 
-This project investigates the impact of the COVID-19 pandemic on sectors of the U.S. economy through data visualization and financial analysis.
+## Research Question
 
-### Research Question
-**How did COVID-19 affect certain markets and sectors within the U.S. economy?**
+How did COVID-19 affect Netflix, Disney+, and Hulu in terms of subscribers and revenue?
 
----
+## Tools Used
 
-## Case Study: Streaming Services
-
-### Companies Analyzed
-- Netflix
-- Disney+
-- Hulu
-
-### Metrics Examined
-- Quarterly Subscriber Growth
-- Quarterly Revenue
-- Pre-COVID vs COVID vs Post-COVID Performance
-
----
-
-## Data Source
-
-- Dataset: [`streaming_covid_data.csv`](data/streaming_covid_data.csv)
-
----
+- Tableau (dashboard and visualizations)
+- Data: [`streaming_covid_data.csv`](streaming_covid_data.csv), quarterly subscribers and revenue, 2019–2023
+- Source of data: [add where you got it]
 
 ## Dashboard
 
 ![Dashboard](streaming_covid.png)
 
----
-
 ## Key Findings
 
-### Subscriber Growth
-- All three streaming platforms experienced significant subscriber growth during COVID-19.
-- Netflix increased from approximately 167 million to over 220 million subscribers.
-- Disney+ experienced rapid expansion following its late 2019 launch.
+- All three platforms saw significant subscriber growth during COVID-19. Netflix grew from about 167 million to over 220 million subscribers.
 - Subscriber growth slowed after pandemic restrictions eased.
-
-### Revenue Growth
-- Revenue continued to increase even after subscriber growth stabilized.
-- Streaming companies relied on pricing strategies and premium subscription models.
-- Revenue trends proved more resilient than subscriber trends.
-  
-### Long-Term Impact
-- COVID-19 permanently accelerated the shift toward digital entertainment.
-- Consumer behavior established during the pandemic remained strong after restrictions ended.
-- The streaming industry emerged larger and more profitable than before COVID-19.
-
----
+- Revenue kept rising after subscriber growth stabilized, supported by pricing and premium subscription tiers.
 
 ## Conclusion
 
-The COVID-19 pandemic fundamentally changed the streaming industry by accelerating digital adoption and increasing demand for online entertainment. While subscriber growth eventually stabilized, revenue continued to increase, demonstrating that many pandemic-driven consumer habits became permanent.
-
-This analysis suggests that COVID-19 acted as a catalyst for long-term structural changes within the U.S. economy.
-
---
+COVID-19 accelerated the shift toward digital entertainment. Subscriber growth eventually leveled off, but revenue kept growing, suggesting that pandemic-driven habits stuck.
 
 ## Author
 
-**Iris Park**
-
-University of California, Riverside
+Iris Park, University of California, Riverside
